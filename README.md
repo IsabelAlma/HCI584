@@ -2,7 +2,7 @@
 ## _Twitter Sentiment Analysis_
 Repo for HCI 584 Summer 2022
 
-![Project Image](https://iowastate-my.sharepoint.com/:i:/g/personal/imalma_iastate_edu/EazdWOsr9JZDqdZ19GdsA30ByNHsJXjImzqEyB8x3RDmvw?e=4Bh4UC)
+![Project Image](https://iowastate-my.sharepoint.com/personal/imalma_iastate_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fimalma%5Fiastate%5Fedu%2FDocuments%2FHCI%20584%2Fgithub%2FTwitter%5Fsentiment%5Fanalysis%5FHCI584%2Fproject%2EPNG&parent=%2Fpersonal%2Fimalma%5Fiastate%5Fedu%2FDocuments%2FHCI%20584%2Fgithub%2FTwitter%5Fsentiment%5Fanalysis%5FHCI584)
 
 This app allows for users to search up a hashtag to retrieve the given sentiment surrounding it, whether it is positive, negative or neutral. 
 
