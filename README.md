@@ -2,7 +2,7 @@
 ## _Twitter Sentiment Analysis_
 Repo for HCI 584 Summer 2022
 
-![Project Image](https://iowastate-my.sharepoint.com/personal/imalma_iastate_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fimalma%5Fiastate%5Fedu%2FDocuments%2FHCI%20584%2Fgithub%2FTwitter%5Fsentiment%5Fanalysis%5FHCI584%2Fproject%2EPNG&parent=%2Fpersonal%2Fimalma%5Fiastate%5Fedu%2FDocuments%2FHCI%20584%2Fgithub%2FTwitter%5Fsentiment%5Fanalysis%5FHCI584)
+![Project Image](https://iowastate-my.sharepoint.com/:i:/g/personal/imalma_iastate_edu/EazdWOsr9JZDqdZ19GdsA30ByNHsJXjImzqEyB8x3RDmvw?e=4Bh4UC)
 
 This app allows for users to search up a hashtag to retrieve the given sentiment surrounding it, whether it is positive, negative or neutral. 
 
@@ -82,6 +82,21 @@ After you clone this repo to your desktop, insure that your config.csv file is s
 - pylab
 
 No additional installs required. 
+
+## Known Issues
+
+GUI only allows for one search term at a time. You will need to quit each time you enter in a hashtag to search. 
+Twitter's API times out after a given number of searches as well after 15 minutes. It is recommended to set your search query to 50 or less for testing purposes. 
+```sh
+    #set number of tweets to return
+    for tweet in tweepy.Cursor(api.search_tweets, q=hash_name,lang='en').items(500):
+        msg = [tweet.text] 
+        msg = tuple(msg)                    
+        msgs.append(msg)
+```
+## Future Work
+Twitter's API allows for a range of included funtionalities. At the moment, this project only allows for hashtag searching. Future possiblities would include searching for a user, Retweets, quotes, and any other opportunities granted by Twitter. 
+Essential+ would also be an avenue to explore, as it can help expand this projects limitations.
 
 ## License
 
