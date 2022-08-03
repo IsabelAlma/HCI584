@@ -44,7 +44,7 @@ The csv file will house the consumer_key, consumer_secret, access_token, and acc
 ```sh
 config.csv
 ```
-![Code here](https://iowastate-my.sharepoint.com/:i:/r/personal/imalma_iastate_edu/Documents/HCI%20584/github/Twitter_sentiment_analysis_HCI584/config.PNG?csf=1&web=1&e=M75AbF)
+![Code here](/images/config.PNG)
 
 Within the GUI version of the project you will see the following to retrieve the code from your file:
 ```sh
