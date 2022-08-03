@@ -2,7 +2,7 @@
 ## _Twitter Sentiment Analysis_
 Repo for HCI 584 Summer 2022
 
-![Project Image](/assets/images/project.PNG)
+![Project Image](/images/project.PNG)
 
 This app allows for users to search up a hashtag to retrieve the given sentiment surrounding it, whether it is positive, negative or neutral. 
 
