@@ -14,7 +14,7 @@ This app allows for users to search up a hashtag to retrieve the given sentiment
 ## Project structure
 
 - TwitterSent1 - GUI version.py: Main file with GUI
-- TwitterSent1 - Elevated Version.ipynb: Standard access via Twitter Developer
+- TwitterSent1 - Essential Version.ipynb: Standard access via Twitter Developer
 
 ## Buy me a coffee
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
