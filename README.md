@@ -36,6 +36,8 @@ In order to run this project, it is recommended to sign up for an account for Tw
 
 More information on the access levels can be found [here](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api).
 
+To install the required packages, please run pip -r requirements.txt
+
 ## Plugins
 
 Once a Twitter Developer account is made, it is recommended to store all your access keys and tokens within a csv file.
