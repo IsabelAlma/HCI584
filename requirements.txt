@@ -1,9 +1,7 @@
-I'm running Python 3 for this project. 
-python3 -m pip install tkinter
-python3 -m pip install tweepy
-python3 -m pip install textblob
-python3 -m pip install wordcloud
-python3 -m pip install pandas
-python3 -m pip install re
-python3 -m pip install matplotlib
-python3 -m pip install pylab
+tkinter
+tweepy
+textblob
+wordcloud
+pandas
+matplotlib
+pylab
